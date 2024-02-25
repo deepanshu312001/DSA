@@ -2,7 +2,7 @@ package DP;
 
 import java.util.Arrays;
 
-public class DP02MaximumSumofNonAdjacentElements {
+public class DP03MaximumSumofNonAdjacentElements {
 
     // static int solveUtil(int[] arr,int n,int[] dp){
     //     if(n<0) return 0;
