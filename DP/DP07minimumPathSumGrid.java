@@ -30,7 +30,7 @@ public class DP07minimumPathSumGrid {
 //     }
     public static void main(String args[]){
         int[][] arr={
-            {5,9,6,},
+            {5,9,6},
             {11,5,2}
         };
 
